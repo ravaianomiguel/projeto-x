@@ -181,3 +181,20 @@ As páginas de **usuário**, **tutorial** e **fotos** não são abas — são al
 | Listar usuários / buscar por username     | `GET /usuarios`                    |
 | Ver perfil de um usuário específico       | `GET /usuarios/:usuarioID`         |
 | Editar perfil                             | `PATCH /usuarios`                  |
+
+## 6. Wireframes
+ 
+Representação básica das telas da aplicação, sem detalhamento visual — apenas a estrutura geral dos elementos.
+ 
+### 6.1 Abas principais
+ 
+Telas acessadas diretamente pela navegação por abas: Página Inicial, Pesquisar e Eu.
+ 
+![Abas principais](res/abas.png)
+ 
+### 6.2 Outras telas
+ 
+Telas acessadas por navegação a partir das abas: Tutorial, Perfil de usuário, Fotos do tutorial e Login/Cadastro.
+ 
+![Outras telas](res/outras.png)
+ 
