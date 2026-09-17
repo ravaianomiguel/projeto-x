@@ -1,0 +1,6 @@
+[submodule "projeto-x-app"]
+	path = projeto-x-app
+	url = https://github.com/ravaianomiguel/projeto-x-app.git
+[submodule "projeto-x-api"]
+	path = projeto-x-api
+	url = https://github.com/ravaianomiguel/projeto-x-api.git
