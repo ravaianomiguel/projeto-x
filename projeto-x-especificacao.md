@@ -21,7 +21,7 @@ Projeto X é uma plataforma onde usuários publicam tutoriais de trabalhos manua
 | Campo       | Tipo    | Restrições                                      |
 |-------------|---------|--------------------------------------------------|
 | id          | int/uuid | chave primária                                   |
-| username    | string  | máx. 10 caracteres, apenas alfanuméricos, `_` e `.`, único |
+| username    | string  | máx. 30 caracteres, apenas alfanuméricos, `_` e `.`, único |
 | realname    | string  | máx. 100 caracteres                              |
 | photo       | image   | foto de perfil                                   |
 | biography   | string  | máx. 1000 caracteres                             |
